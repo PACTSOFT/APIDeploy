@@ -1,12 +1,25 @@
-[Sys Thread: 1] INFO | 07-25-2025 15:20:10.326 | SessionManager :: InitOnLoad() :: Entering...
-[Sys Thread: 1] INFO | 07-25-2025 15:20:10.326 | Installed Printers Count :3
-[Sys Thread: 1] INFO | 07-25-2025 15:20:10.326 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
-[Sys Thread: 1] INFO | 07-25-2025 15:20:10.326 | SessionManager :: InitOnLoad() :: Exiting...
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:12.076 | Common:: DecodeBase64 START
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:12.091 | Common:: deCodeLevel1 START
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:12.091 | Common:: DecodeBase64 START
-[System: 192.168.1.99] ERROR | 07-25-2025 15:20:12.201 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:59.521 | Common:: DecodeBase64 START
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:59.521 | Common:: deCodeLevel1 START
-[System: 192.168.1.99] INFO | 07-25-2025 15:20:59.521 | Common:: DecodeBase64 START
-[System: 192.168.1.99] ERROR | 07-25-2025 15:20:59.568 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[Sys Thread: 50] INFO | 07-28-2025 14:32:13.277 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 50] INFO | 07-28-2025 14:32:13.277 | Installed Printers Count :3
+[Sys Thread: 50] INFO | 07-28-2025 14:32:13.277 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 50] INFO | 07-28-2025 14:32:13.277 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.77] INFO | 07-28-2025 14:32:15.042 | Common:: DecodeBase64 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:32:15.042 | Common:: deCodeLevel1 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:32:15.042 | Common:: DecodeBase64 START
+[System: 192.168.1.77] ERROR | 07-28-2025 14:32:15.355 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.77] ERROR | 07-28-2025 14:32:57.400 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.77] INFO | 07-28-2025 14:33:00.043 | Common:: DecodeBase64 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:33:00.043 | Common:: deCodeLevel1 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:33:00.043 | Common:: DecodeBase64 START
+[System: 192.168.1.77] ERROR | 07-28-2025 14:33:00.106 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.77] INFO | 07-28-2025 14:34:00.049 | Common:: DecodeBase64 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:34:00.049 | Common:: deCodeLevel1 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:34:00.049 | Common:: DecodeBase64 START
+[System: 192.168.1.77] ERROR | 07-28-2025 14:34:00.096 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.77] INFO | 07-28-2025 14:35:00.052 | Common:: DecodeBase64 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:35:00.052 | Common:: deCodeLevel1 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:35:00.052 | Common:: DecodeBase64 START
+[System: 192.168.1.77] ERROR | 07-28-2025 14:35:00.099 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.77] INFO | 07-28-2025 14:36:00.046 | Common:: DecodeBase64 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:36:00.046 | Common:: deCodeLevel1 START
+[System: 192.168.1.77] INFO | 07-28-2025 14:36:00.046 | Common:: DecodeBase64 START
+[System: 192.168.1.77] ERROR | 07-28-2025 14:36:00.093 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
