@@ -1,0 +1,9 @@
+[System: 192.168.1.56] DEBUG | 08-06-2025 12:45:56.581 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.56'
+ ,'192.168.1.56'
+ ,''
+ ,'Web'
+ ,1
