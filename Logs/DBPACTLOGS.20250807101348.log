@@ -1,5 +1,0 @@
-[Sys Thread: 1] INFO | 08-07-2025 10:13:48.225 | DBLOGGER Initiated
-[System: 192.168.1.77] INFO | 08-07-2025 10:13:56.058 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
-[System: 192.168.1.77] INFO | 08-07-2025 10:13:56.261 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
-[System: 192.168.1.77] INFO | 08-07-2025 10:13:56.667 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
-[System: 192.168.1.77] INFO | 08-07-2025 10:13:56.683 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
