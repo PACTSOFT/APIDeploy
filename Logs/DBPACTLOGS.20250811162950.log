@@ -1,0 +1,5 @@
+[Sys Thread: 79] INFO | 08-11-2025 16:29:50.485 | DBLOGGER Initiated
+[System: 192.168.1.77] INFO | 08-11-2025 16:29:53.718 | Model :: DBHandler :: :: Entering Get Method. CompanyIndex = 134;  SPName = spADM_GetDataSet
+[System: 192.168.1.77] INFO | 08-11-2025 16:29:53.828 | Model :: DBHandler :: :: Exiting Get Method.
+[System: 192.168.1.77] INFO | 08-11-2025 16:29:53.843 | Model :: DBHandler :: :: Entering Get Method. CompanyIndex = 134;  SPName = spADM_GetDataSet
+[System: 192.168.1.77] INFO | 08-11-2025 16:29:53.843 | Model :: DBHandler :: :: Exiting Get Method.
