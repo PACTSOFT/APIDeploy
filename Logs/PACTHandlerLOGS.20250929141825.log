@@ -1,0 +1,4 @@
+[System: 192.168.1.73] ERROR | 09-29-2025 14:18:26.354 | General Service|:: CompanyIndex:0 SpName: spADM_GetDataSetParameters :
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMzQ4LDEiLCJuYmYiOjE3NTg4NzgxNzIsImV4cCI6MTc1ODkwNjk3MiwiaWF0IjoxNzU4ODc4MTcyfQ.OlQox8dj6dwKa1BiJti4xdAxILurl95Tll1cg5V9gRs'''
+ ,1
+ ,1|Could not find stored procedure 'spADM_GetDataSet'.

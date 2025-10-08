@@ -1,0 +1,711 @@
+[Sys Thread: 1] INFO | 10-03-2025 19:41:36.409 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 10-03-2025 19:41:36.409 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 10-03-2025 19:41:36.424 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 10-03-2025 19:41:36.424 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.737 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.737 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.737 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.737 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.737 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.830 | Administration:: Entering LDAPChecking
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.846 | isValidUser:: False
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.846 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.956 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.956 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.956 | Administration:: Entering LDAPChecking
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.956 | isValidUser:: True
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:36.956 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.301 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.301 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.301 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.301 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.301 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.473 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.560 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.560 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.560 | Administration:: Entering LDAPChecking
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.560 | isValidUser:: True
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.560 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:40.705 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.720 | Administration:: Entering InitLoginSession
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.752 | Administration:: Entering AllowSession  1
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:40.752 | Administration:: Entering AllowSession  end
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:40.752 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:40.877 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:42.814 | RibbonGenerator:: GetRibbonViewWeb
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:42.830 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:42.830 | RibbonGenerator:: Inside GetRibbonView
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.127 | RibbonGenerator:: Success: GetRibbonView
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.127 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.455 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.486 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.517 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.533 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.564 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.580 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.642 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.705 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.720 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.845 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.845 | ReportLayout:: GetDataSet START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.876 | ReportLayout:: GetDataSet END
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.876 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.939 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.939 | ReportLayout:: GetDataSet START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.939 | ReportLayout:: GetDataSet END
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.955 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.955 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.955 | ReportLayout:: GetDataSet START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.986 | ReportLayout:: GetDataSet END
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:43.986 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:43.986 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:44.001 | ReportLayout:: GetDataSet START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:44.001 | ReportLayout:: GetDataSet END
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:44.001 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:44.033 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:44.033 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:44.033 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:44.205 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:44.423 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:44.439 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:50.111 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:50.157 | GetCostCenterSummary:: GetCostCenterSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:50.173 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.021 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:52.036 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:52.067 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.067 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.224 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.239 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.255 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.270 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.286 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.302 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.317 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.333 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.349 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.364 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:52.380 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.833 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.849 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:52.880 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:52.911 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:52.942 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:41:53.333 | CostCenter:: Success: DBH.GetCostCenterDetails 3
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:53.348 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:53.395 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:53.411 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:41:53.426 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:03.403 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:03.419 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:03.419 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.235 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.235 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.250 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.469 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.516 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.532 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.547 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.563 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.579 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.594 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.610 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.643 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.674 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.690 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.690 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.706 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.737 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.753 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.753 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:04.768 | CostCenter:: Success: DBH.GetCostCenterDetails 3
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.768 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.784 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.799 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:04.815 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.483 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.514 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.514 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.530 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.546 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.577 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.593 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.629 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.661 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.692 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:07.708 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.708 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.723 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.754 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:07.774 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:07.774 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:07.802 | CostCenter:: Success: DBH.GetCostCenterDetails 3
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.802 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.817 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.833 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:07.848 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:19.546 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:19.561 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:19.561 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.455 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.502 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.502 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.533 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.549 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.580 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.596 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.627 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.643 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.674 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:21.690 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.705 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.705 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.752 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:21.768 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:21.768 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:21.877 | CostCenter:: Success: DBH.GetCostCenterDetails 31
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.877 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.893 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.908 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.924 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.940 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.955 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:21.987 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.002 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:22.034 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.065 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.065 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.065 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.096 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:22.096 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.127 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.127 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.127 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.143 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:22.143 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.174 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.174 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.174 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.510 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:22.510 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.526 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.526 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.526 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:22.557 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:22.557 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:44.023 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:44.023 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:44.023 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:44.148 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.087 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.103 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.103 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.134 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.134 | NotificationHandler:: Inside GetGlobalPreferences
+[System: 192.168.1.110] INFO | 10-03-2025 19:42:46.165 | NotificationHandler:: Success: GetGlobalPreferences
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:46.165 |  PactUploadFiles UseGlobalPrefForFileUploadPath -- Reading from GP -- ::  \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.165 | isYearMonthWiseFolder   :: TRUE
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.165 | FolderPath   :: 2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.165 | PactFtpUpload   :: \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:46.165 | LocalPath --  -- ::  D:\PACTRevenUWEBAPI\Attachments\7acfee43-0fad-4a73-8652-d888aa8cd22f.sql
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.165 | PactFile FolderPath --isYearMonthWiseFolder       2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.165 | PactFile ConfigUploadPath --isYearMonthWiseFolder       \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:42:46.212 | pic.SaveAs  :: 
+[System: 192.168.1.110] ERROR | 10-03-2025 19:42:46.212 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.721 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.737 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.737 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.768 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.768 | NotificationHandler:: Inside GetGlobalPreferences
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:02.799 | NotificationHandler:: Success: GetGlobalPreferences
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:02.799 |  PactUploadFiles UseGlobalPrefForFileUploadPath -- Reading from GP -- ::  \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.799 | isYearMonthWiseFolder   :: TRUE
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.799 | FolderPath   :: 2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.799 | PactFtpUpload   :: \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:02.799 | LocalPath --  -- ::  D:\PACTRevenUWEBAPI\Attachments\b4c58893-480a-4457-afdb-3cd46fc97f52.png
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.799 | PactFile FolderPath --isYearMonthWiseFolder       2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.799 | PactFile ConfigUploadPath --isYearMonthWiseFolder       \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:02.815 | pic.SaveAs  :: 
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:02.815 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:06.746 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:06.761 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:06.761 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:06.761 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:07.339 | CostCenter:: Success: DBH.SaveCostCenter 31
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:07.339 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:07.355 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:07.371 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:07.371 | GetCostCenterSummary:: GetCostCenterSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:07.371 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:07.386 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:13.512 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:13.527 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.527 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.746 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.777 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.793 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.824 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.840 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.887 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.902 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.934 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.965 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.980 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:13.996 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:13.996 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.012 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.027 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.043 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.043 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.074 | CostCenter:: Success: DBH.GetCostCenterDetails 31
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.074 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.090 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.090 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.121 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.121 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.121 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.137 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.137 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.152 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.183 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.199 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.215 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.215 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.230 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.230 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.246 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.246 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.246 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.262 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.262 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.262 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.277 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.277 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.309 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.309 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.309 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.324 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.324 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.340 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.340 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.340 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:14.355 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:14.355 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:20.972 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:20.987 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:20.987 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:23.060 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:23.076 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:23.076 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:24.316 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:24.331 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:24.331 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.097 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.128 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.144 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.175 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.191 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.222 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.238 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.269 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.300 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.331 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.331 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.347 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.363 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.378 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.394 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.394 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.519 | CostCenter:: Success: DBH.GetCostCenterDetails 8
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.519 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.534 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.566 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.581 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.597 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.597 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.613 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.613 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.628 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.644 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.659 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.659 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.675 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.675 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.675 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.675 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.691 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.706 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.722 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.722 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.722 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.738 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.738 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.753 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.753 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.753 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.769 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.784 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.800 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.800 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.800 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:25.816 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:25.816 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.762 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.778 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.778 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.809 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.809 | NotificationHandler:: Inside GetGlobalPreferences
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:37.842 | NotificationHandler:: Success: GetGlobalPreferences
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:37.842 |  PactUploadFiles UseGlobalPrefForFileUploadPath -- Reading from GP -- ::  \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.842 | isYearMonthWiseFolder   :: TRUE
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.842 | FolderPath   :: 2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.842 | PactFtpUpload   :: \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:37.842 | LocalPath --  -- ::  D:\PACTRevenUWEBAPI\Attachments\727e110a-50bb-43ad-a045-b32e29e958bb.sql
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.842 | PactFile FolderPath --isYearMonthWiseFolder       2025Oct
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.842 | PactFile ConfigUploadPath --isYearMonthWiseFolder       \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:43:37.873 | pic.SaveAs  :: 
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:37.873 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:44.034 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:44.034 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:44.034 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:44.300 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.457 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.457 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.457 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.457 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.488 | CostCenter:: Success: DBH.SaveCostCenter 8
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:45.504 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.504 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:45.519 | GetCostCenterSummary:: GetCostCenterSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:45.519 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:45.519 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:45.535 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:48.493 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:48.509 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:48.509 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.364 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.410 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.410 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.442 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.457 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.489 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.489 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.535 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.567 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.598 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.614 | Common:: Inside GetColumnDefination
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.614 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.629 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.660 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.660 | CommonController:: Exiting GetCostCenterDetails 
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.660 | CostCenter:: Inside GetCostCenterDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.707 | CostCenter:: Success: DBH.GetCostCenterDetails 8
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.707 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.723 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.738 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.754 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.754 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.754 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.770 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.770 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.770 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.785 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.785 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.801 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.817 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.832 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.832 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.848 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.848 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.848 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.864 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.864 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.879 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.879 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.879 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.895 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.895 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.910 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.910 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.926 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.926 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.942 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.942 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.957 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.957 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:43:58.957 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:43:58.973 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:44:44.374 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:44:44.374 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:44:44.374 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:44:44.499 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:19.258 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:19.273 | GetCostCenterSummary:: GetCostCenterSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:19.305 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.059 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.075 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.106 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.106 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.294 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.325 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.341 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.372 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.387 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.419 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.434 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.481 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.512 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.528 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.559 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.590 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.622 | Account:: Inside GetAccount
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.778 | Account:: Success: DBH.GetAccount 12578
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.778 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.825 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.840 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.840 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.856 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.856 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.887 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.887 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.903 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.934 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.950 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:20.966 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.997 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.997 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.997 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:20.997 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.012 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.012 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.012 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.012 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.028 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.028 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.044 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.044 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.044 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.059 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.059 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.075 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.075 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.075 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.091 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.091 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.106 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.106 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.106 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.137 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.137 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.153 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.153 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.153 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:21.153 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:21.153 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:24.269 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:24.285 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:24.300 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:24.300 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:24.300 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:24.316 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:24.316 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.148 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.226 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.226 | Administration:: Entering GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.257 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.257 | NotificationHandler:: Inside GetGlobalPreferences
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:28.273 | NotificationHandler:: Success: GetGlobalPreferences
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:28.288 |  PactUploadFiles UseGlobalPrefForFileUploadPath -- Reading from GP -- ::  \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.288 | isYearMonthWiseFolder   :: TRUE
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.288 | FolderPath   :: 2025May
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.288 | PactFtpUpload   :: \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:28.288 | LocalPath --  -- ::  D:\PACTRevenUWEBAPI\Attachments\a3d7c190-0ea5-42f9-853b-e351247c86ad.txt
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.288 | PactFile FolderPath --isYearMonthWiseFolder       2025May
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.288 | PactFile ConfigUploadPath --isYearMonthWiseFolder       \\192.168.1.132\share-e\Khaja\Uploads
+[System: 192.168.1.110] DEBUG | 10-03-2025 19:45:28.304 | pic.SaveAs  :: 
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:28.304 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:29.102 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:29.102 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:31.328 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:31.375 | Account:: Inside SaveAccount
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:32.935 | Account:: Success: DBH.SaveAccount 12578
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:32.950 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:32.950 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:32.966 | GetCostCenterSummary:: GetCostCenterSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:32.982 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:32.982 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:32.997 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:33.029 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.029 | Administration:: Inside getRoles
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:33.325 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.798 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.798 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.798 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.814 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:33.814 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.829 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.829 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.829 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:33.845 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:33.860 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.107 | ControlGenerator:: Entering GetCostCenterQuickViewSummary
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.111 | ControlGenerator:: Exiting GetCostCenterQuickViewSummary
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.127 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.346 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.361 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.377 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.408 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.424 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.455 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.455 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.486 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.517 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.533 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.564 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.580 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.580 | Account:: Inside GetAccount
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.627 | Account:: Success: DBH.GetAccount 12578
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.627 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.642 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.658 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.658 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.674 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.674 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.705 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.720 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.720 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.720 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.736 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.752 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.752 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.767 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.783 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.783 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.783 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.799 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.799 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.814 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.814 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.814 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.830 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.830 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.830 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.830 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.830 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.846 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.846 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.861 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.861 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.861 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.861 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.877 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.877 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.877 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.877 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.908 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.908 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.908 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.908 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.908 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:40.924 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:40.924 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:44.032 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:44.032 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:45:44.032 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:45:44.157 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.874 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.906 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.921 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.937 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.968 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.999 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:03.999 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.046 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.081 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.094 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.109 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.125 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.125 | Account:: Inside GetAccount
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.172 | Account:: Success: DBH.GetAccount 12578
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.172 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.187 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.203 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.203 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.219 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.219 | GetScreenInfo:: GetScreenInfo
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.234 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.250 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.266 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.266 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.281 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.312 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.312 | Common:: GetDataSet START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.328 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.344 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.344 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.344 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.359 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.359 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.375 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.375 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.375 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.391 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.391 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.391 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.391 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.391 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.406 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.422 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.422 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.422 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.422 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.438 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.438 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.453 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.453 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.453 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.469 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.469 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.484 | Common:: IsBase64 Checking START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.484 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.484 | Administration:: Entering GetCostCenterListViewData
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:04.500 | Administration:: Exiting GetCostCenterListViewData
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:04.500 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:43.393 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:44.362 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:44.362 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:46:44.362 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:46:44.487 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:47:44.361 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:47:44.361 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:47:44.361 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:47:44.485 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:48:44.371 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:48:44.371 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:48:44.371 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:48:44.480 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:49:44.363 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:49:44.363 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:49:44.363 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:49:44.488 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:50:44.368 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:50:44.368 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:50:44.368 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:50:44.493 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] ERROR | 10-03-2025 19:51:42.856 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:51:44.374 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:51:44.374 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:51:44.374 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:51:44.483 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:52:44.380 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:52:44.380 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:52:44.380 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:52:44.489 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:53:44.379 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:53:44.379 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:53:44.379 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:53:44.488 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.110] INFO | 10-03-2025 19:54:44.379 | Common:: DecodeBase64 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:54:44.379 | Common:: deCodeLevel1 START
+[System: 192.168.1.110] INFO | 10-03-2025 19:54:44.379 | Common:: DecodeBase64 START
+[System: 192.168.1.110] ERROR | 10-03-2025 19:54:44.504 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
