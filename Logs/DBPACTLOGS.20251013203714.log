@@ -1,0 +1,33 @@
+[Sys Thread: 1] INFO | 10-13-2025 20:37:14.747 | DBLOGGER Initiated
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.809 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.903 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.997 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:17.012 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.466 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 7;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.544 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.700 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.700 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:26.716 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 6;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.283 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.330 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.346 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.897 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 16;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.943 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.975 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.975 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:39.004 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 15;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.383 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.446 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:45.160 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 23;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.325 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.357 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.357 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:19.839 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 38;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.720 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.767 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.767 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.783 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 38;  SPName = spADM_GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.830 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.

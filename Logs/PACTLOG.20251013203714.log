@@ -1,0 +1,78 @@
+[Sys Thread: 1] INFO | 10-13-2025 20:37:14.747 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 10-13-2025 20:37:14.747 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 10-13-2025 20:37:14.747 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 10-13-2025 20:37:14.747 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.809 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.809 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.809 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.903 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.903 | isValidUser:: True
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.903 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.981 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.981 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.981 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.981 | isValidUser:: True
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:16.981 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.450 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.450 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.466 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.653 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.685 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.685 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.685 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.685 | isValidUser:: True
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:18.685 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:26.716 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:26.716 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:26.716 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.299 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.315 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.315 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.330 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.330 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:29.330 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.897 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.897 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.897 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.943 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.959 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.959 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.959 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.959 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:31.959 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:39.004 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:39.004 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:39.004 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.383 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:42.414 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:45.160 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:45.160 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:45.160 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.325 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.341 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.341 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.341 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.341 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:37:49.341 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:19.839 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:19.839 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:19.839 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.720 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.752 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.752 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.752 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.752 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.752 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.783 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.783 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.783 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.830 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | isValidUser:: False
+[System: 192.168.1.54] INFO | 10-13-2025 20:38:26.861 | AdminController:: Exiting LDAPUserCheck
