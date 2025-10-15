@@ -1,0 +1,891 @@
+[Sys Thread: 1] INFO | 10-15-2025 15:08:40.426 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 10-15-2025 15:08:40.426 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 10-15-2025 15:08:40.426 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 10-15-2025 15:08:40.426 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:42.035 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:42.285 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:42.285 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:42.285 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:44.909 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.533 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.533 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.533 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.533 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.533 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.565 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.565 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.565 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.596 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.596 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.596 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.596 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:48.596 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.329 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.329 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.329 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.329 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.329 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.376 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.485 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.485 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.485 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.485 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.485 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.547 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.563 | Administration:: Entering InitLoginSession
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.579 | Administration:: Entering AllowSession  1
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.579 | Administration:: Entering AllowSession  end
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.579 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.657 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.657 | RibbonGenerator:: GetRibbonViewWeb
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.657 | RibbonGenerator:: Inside GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.688 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.766 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.907 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:55.969 | RibbonGenerator:: Success: GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:55.969 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.250 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.266 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.313 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.344 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.407 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.407 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.407 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.485 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.532 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.532 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.641 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.688 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.688 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.751 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.751 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.751 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.766 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.797 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.797 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.797 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.797 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.813 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.813 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.813 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.813 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.860 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.860 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.860 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.860 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.860 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.860 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.875 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.875 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.875 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.875 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.875 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.891 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.891 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.891 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.907 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.922 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.922 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.922 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.922 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.922 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.922 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.922 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.922 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.938 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.953 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.953 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.969 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.969 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.969 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.969 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.969 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.969 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.969 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.985 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:56.985 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.985 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.985 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.985 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.985 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:56.985 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:56.985 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.000 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.000 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.000 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.000 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.000 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.000 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.000 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.000 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.016 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.016 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.016 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.016 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.016 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.016 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.032 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.032 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.032 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.032 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.032 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.032 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.032 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.032 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.047 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.047 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.047 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.047 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.047 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.047 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.047 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.047 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.063 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.063 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.063 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.063 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.063 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.063 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.063 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.063 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.063 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.063 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.063 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.063 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.078 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.078 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.078 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.078 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.094 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.094 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.094 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.094 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.110 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.110 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.110 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.125 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:08:57.125 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.125 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.125 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.125 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.125 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:08:57.125 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.125 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.328 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:08:57.375 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] INFO | 10-15-2025 15:08:58.344 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:08:58.344 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:08:58.344 | Common:: DecodeBase64 START
+[System: 192.168.1.181] INFO | 10-15-2025 15:09:05.873 | Common:: DecodeBase64 START
+[System: 192.168.1.181] INFO | 10-15-2025 15:09:05.873 | Common:: deCodeLevel1 START
+[System: 192.168.1.181] INFO | 10-15-2025 15:09:05.873 | Common:: DecodeBase64 START
+[System: 192.168.1.73] ERROR | 10-15-2025 15:09:08.372 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.181] ERROR | 10-15-2025 15:09:15.903 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:09:56.850 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:09:56.850 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:09:56.850 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:09:56.944 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] INFO | 10-15-2025 15:09:58.341 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:09:58.341 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:09:58.341 | Common:: DecodeBase64 START
+[System: 192.168.1.181] ERROR | 10-15-2025 15:10:03.903 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] ERROR | 10-15-2025 15:10:08.356 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:10:57.033 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:10:57.033 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:10:57.033 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:10:57.111 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] INFO | 10-15-2025 15:10:58.329 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:10:58.329 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:10:58.329 | Common:: DecodeBase64 START
+[System: 192.168.1.73] ERROR | 10-15-2025 15:11:08.358 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:11:58.362 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:11:58.362 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:11:58.362 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:11:58.487 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] ERROR | 10-15-2025 15:12:08.360 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:12:57.047 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:12:57.047 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:12:57.047 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:12:57.125 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:13:56.081 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:13:56.097 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:13:57.007 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:13:57.007 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:13:57.007 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:13:57.100 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:14:57.046 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:14:57.046 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:14:57.046 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:14:57.140 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:15:57.034 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:15:57.050 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:15:57.050 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:15:57.128 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:16:58.069 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:16:58.069 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:16:58.069 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:16:58.147 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:17:58.053 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:17:58.053 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:17:58.053 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:17:58.131 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:18:56.075 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:18:56.091 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:18:58.004 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:18:58.004 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:18:58.004 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:18:58.101 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:19:58.086 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:19:58.086 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:19:58.086 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:19:58.164 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:20:58.049 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:20:58.049 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:20:58.049 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:20:58.143 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.181] INFO | 10-15-2025 15:21:50.772 | Common:: DecodeBase64 START
+[System: 192.168.1.181] INFO | 10-15-2025 15:21:50.772 | Common:: deCodeLevel1 START
+[System: 192.168.1.181] INFO | 10-15-2025 15:21:50.772 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:21:58.095 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:21:58.095 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:21:58.095 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:21:58.173 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.181] ERROR | 10-15-2025 15:22:00.799 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.181] ERROR | 10-15-2025 15:22:00.799 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.181] ERROR | 10-15-2025 15:22:00.799 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:22:58.060 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:22:58.060 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:22:58.060 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:22:58.154 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] INFO | 10-15-2025 15:23:55.325 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:23:55.325 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:23:55.325 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:23:56.059 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:23:56.106 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:23:56.122 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:23:58.018 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:23:58.018 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:23:58.018 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:23:58.096 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] ERROR | 10-15-2025 15:24:05.353 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] ERROR | 10-15-2025 15:24:05.353 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:24:56.823 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:24:56.823 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:24:56.823 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:24:56.901 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:25:57.014 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:25:57.014 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:25:57.014 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:25:57.108 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:26:58.014 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:26:58.014 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:26:58.014 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:26:58.092 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:27:58.006 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:27:58.006 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:27:58.006 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:27:58.100 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:28:56.056 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:28:56.088 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:28:58.041 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:28:58.041 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:28:58.041 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:28:58.134 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:29:58.012 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:29:58.012 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:29:58.012 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:29:58.095 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:30:58.110 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:30:58.110 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:30:58.110 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:30:58.188 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:31:58.052 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:31:58.067 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:31:58.067 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:31:58.145 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:32:58.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:32:58.016 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:32:58.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:32:58.094 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:33:56.058 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:33:56.073 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:33:58.011 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:33:58.011 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:33:58.011 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:33:58.104 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:34:58.145 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:34:58.145 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:34:58.145 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:34:58.223 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] ERROR | 10-15-2025 15:35:52.534 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:35:58.008 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:35:58.008 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:35:58.008 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:35:58.086 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:36:56.826 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:36:56.826 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:36:56.826 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:36:56.904 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.683 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.683 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.683 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.683 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.683 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.698 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.714 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.714 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.730 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.730 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.730 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.730 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:48.730 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.606 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.606 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.606 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.606 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.606 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.643 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.737 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.737 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.737 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.737 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.737 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.768 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.784 | Administration:: Entering InitLoginSession
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.800 | Administration:: Entering AllowSession  1
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.800 | Administration:: Entering AllowSession  end
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.800 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.815 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.831 | RibbonGenerator:: GetRibbonViewWeb
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:51.831 | RibbonGenerator:: Inside GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.847 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.894 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:51.925 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.112 | RibbonGenerator:: Success: GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.112 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.409 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.425 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.456 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.456 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.518 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.518 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.518 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.581 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.628 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.628 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.706 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.753 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.753 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.800 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.815 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.815 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.815 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.831 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.831 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.846 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.846 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.846 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.862 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.862 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.862 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.878 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.878 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.878 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.878 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.878 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.878 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.878 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.878 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.893 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.893 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.893 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.893 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.893 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.893 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.893 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.893 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.909 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.909 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.909 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.909 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.909 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.909 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.909 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.924 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.924 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.924 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.924 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.924 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.924 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.924 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.924 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.940 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.940 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.940 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.940 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.940 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.940 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.940 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.940 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.972 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.972 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.972 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.972 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.972 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.972 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.972 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.972 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.987 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.987 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:52.987 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.987 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.987 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:52.987 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.987 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.987 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.987 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.987 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:52.987 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.003 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.003 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.003 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.018 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.018 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.018 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.018 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.018 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.018 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.018 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.018 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.034 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.034 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.034 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.034 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.034 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.034 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.034 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.034 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.034 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.034 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.034 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.049 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.049 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.049 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.065 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.065 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.065 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.065 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.065 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.065 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.065 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.065 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.081 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.081 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.081 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.081 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.081 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.081 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.081 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.081 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.081 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.081 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.081 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.081 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.096 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.096 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.096 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.096 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.096 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.096 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.096 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.112 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.112 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.112 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.112 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.112 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.112 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.112 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.112 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.112 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.112 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.128 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:37:53.128 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.128 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.128 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.128 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.128 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:37:53.128 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.128 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.206 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:37:53.253 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.966 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.966 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.966 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.966 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.966 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.997 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.997 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:25.997 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:26.013 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:26.013 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:26.013 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:26.013 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:26.013 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.515 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.515 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.515 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.515 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.515 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.531 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.624 | Common:: IsBase64 Checking START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.624 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.624 | Administration:: Entering LDAPChecking
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.624 | isValidUser:: True
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.624 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.671 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.671 | Administration:: Entering InitLoginSession
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.687 | Administration:: Entering AllowSession  1
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.687 | Administration:: Entering AllowSession  end
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.687 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.702 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.702 | RibbonGenerator:: GetRibbonViewWeb
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:28.702 | RibbonGenerator:: Inside GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.718 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.765 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:28.765 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.031 | RibbonGenerator:: Success: GetRibbonView
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.031 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.296 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.312 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.327 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.343 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.406 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.406 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.406 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.484 | Administration:: Entering GetUserDetails
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.515 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.515 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.577 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.609 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.609 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.656 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.671 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.671 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.671 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.687 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.687 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.687 | ReportLayout:: GetDataSet START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.687 | ReportLayout:: GetDataSet END
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.702 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.702 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.702 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.702 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.718 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.718 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.718 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.718 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.718 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.718 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.718 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.718 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.718 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.718 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.718 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.734 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.734 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.734 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.734 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.734 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.734 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.749 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.749 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.749 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.749 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.749 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.749 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.765 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.765 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.765 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.765 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.765 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.765 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.765 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.765 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.781 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.781 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.781 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.781 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.781 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.781 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.781 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.781 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.796 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.812 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.812 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.812 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.812 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.812 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.812 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.812 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.812 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.828 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.828 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.828 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.828 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.828 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.828 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.828 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.828 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.843 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.843 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.843 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.843 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.843 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.843 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.843 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.843 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.859 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.859 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.859 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.859 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.859 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.859 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.859 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.859 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.874 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.874 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.874 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.874 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.874 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.874 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.874 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.874 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.890 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.890 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.890 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.890 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.890 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.890 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.890 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.890 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.906 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.906 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.906 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.906 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.906 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.906 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.906 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.906 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | GetUploadedImage  -- Start::  
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.921 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:38:29.921 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | GetUploadedImage -- isYearMonthWiseFolder  -- ::  False
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | GetUploadedImage -- FolderPath is found empty or not  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | FtpPort  -- ::  0
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.921 | ftpDownload -- start  -- ::  
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.921 | ftpServerFile    :: //192.168.1.132/ftp/FTPUploads/TT/fd403166-4104-4ac6-a298-19b759dba4a2.jpg
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.921 | ftpuserid     ::javed
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.921 | ftppassword   :: Pass@123
+[System: 192.168.1.56] DEBUG | 10-15-2025 15:38:29.921 | ftpDownload -- client.DownloadData(ftpServerFile)  -- ::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | ftpDownload ERROR Exception:: Could not find file '\\192.168.1.132\ftp\FTPUploads\TT\fd403166-4104-4ac6-a298-19b759dba4a2.jpg'.
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | GetUploadedImage  -- End::  
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:29.921 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:30.062 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:38:30.109 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:39:30.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:39:30.016 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:39:30.016 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:39:30.094 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:40:30.834 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:40:30.834 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:40:30.834 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:40:30.912 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:41:30.095 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:41:30.095 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:41:30.095 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:41:30.189 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] INFO | 10-15-2025 15:42:30.179 | Common:: DecodeBase64 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:42:30.179 | Common:: deCodeLevel1 START
+[System: 192.168.1.56] INFO | 10-15-2025 15:42:30.179 | Common:: DecodeBase64 START
+[System: 192.168.1.56] ERROR | 10-15-2025 15:42:30.257 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.56] ERROR | 10-15-2025 15:43:41.800 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.804 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.804 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.804 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.804 | Common:: IsBase64 Checking START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.804 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.820 | Administration:: Entering LDAPChecking
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.820 | isValidUser:: True
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.820 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.851 | Common:: IsBase64 Checking START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.851 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.851 | Administration:: Entering LDAPChecking
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.851 | isValidUser:: True
+[System: 192.168.1.73] INFO | 10-15-2025 15:54:07.851 | AdminController:: Exiting LDAPUserCheck

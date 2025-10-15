@@ -1,39 +1,17 @@
-[Sys Thread: 45] INFO | 10-14-2025 14:26:15.083 | SessionManager :: InitOnLoad() :: Entering...
-[Sys Thread: 45] INFO | 10-14-2025 14:26:15.083 | Installed Printers Count :3
-[Sys Thread: 45] INFO | 10-14-2025 14:26:15.083 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
-[Sys Thread: 45] INFO | 10-14-2025 14:26:15.083 | SessionManager :: InitOnLoad() :: Exiting...
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:16.895 | Common:: DecodeBase64 START
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:17.082 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:17.145 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:26:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:59.770 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:59.785 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:59.817 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:26:59.817 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:27:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] ERROR | 10-14-2025 14:27:59.770 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:27:59.785 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: deCodeLevel1 START
-[System: 192.168.1.73] INFO | 10-14-2025 14:28:59.723 | Common:: DecodeBase64 START
-[System: 192.168.1.73] ERROR | 10-14-2025 14:28:59.739 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:28:59.770 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
-[System: 192.168.1.73] ERROR | 10-14-2025 14:28:59.932 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[Sys Thread: 1] INFO | 10-15-2025 15:55:55.278 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 10-15-2025 15:55:55.278 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 10-15-2025 15:55:55.278 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 10-15-2025 15:55:55.278 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.625 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.625 | Common:: deCodeLevel1 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.625 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.625 | Common:: IsBase64 Checking START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.625 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.703 | Administration:: Entering LDAPChecking
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.703 | isValidUser:: True
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.719 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.891 | Common:: IsBase64 Checking START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.891 | Common:: DecodeBase64 START
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.891 | Administration:: Entering LDAPChecking
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.891 | isValidUser:: True
+[System: 192.168.1.73] INFO | 10-15-2025 15:55:58.891 | AdminController:: Exiting LDAPUserCheck
