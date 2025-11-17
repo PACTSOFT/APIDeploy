@@ -1,0 +1,60 @@
+[Sys Thread: 1] INFO | 11-13-2025 14:34:03.750 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 11-13-2025 14:34:03.750 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 11-13-2025 14:34:03.766 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 11-13-2025 14:34:03.766 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:04.047 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:04.047 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:04.047 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:04.047 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:04.047 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:34:18.737 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:25.189 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:25.189 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:25.189 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:25.189 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:25.189 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:34:39.785 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:45.287 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:45.287 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:45.287 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:45.287 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:45.287 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:34:45.287 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:50.864 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:50.864 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:50.864 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:50.880 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:34:50.880 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:35:05.556 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:05.572 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:05.572 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:05.572 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:05.572 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:05.572 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:35:05.587 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:21.252 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:21.252 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:21.252 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:21.252 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:21.252 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:35:21.268 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:24.393 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:24.393 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:24.393 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:24.408 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:24.408 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:35:24.408 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:37.529 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:37.529 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:37.529 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:37.529 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:35:37.529 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] ERROR | 11-13-2025 14:35:52.148 | AdminController:: GetUserDetails Error   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at PactRevenUWebapi2._0.Controllers.PactRequestTokenController.GetClientUserDetails(RequestObj Reqobj)

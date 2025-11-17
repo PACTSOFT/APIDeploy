@@ -1,0 +1,1237 @@
+[System: 192.168.1.79] ERROR | 11-13-2025 09:34:52.377 | General Service|:: CompanyIndex:0 SpName: spADM_GetDataSetParameters :
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMTAzLDEiLCJuYmYiOjE3NjI5NDgxNjksImV4cCI6MTc2Mjk3Njk2OSwiaWF0IjoxNzYyOTQ4MTY5fQ.dDCnNLkgm0cc7Og1mn1a1-maMJMJOjb_k5HdwV0r6IQ'''
+ ,1
+ ,1|Could not find stored procedure 'spADM_GetDataSet'.
+[System: 192.168.1.76] ERROR | 11-13-2025 09:41:16.190 | General Service|:: CompanyIndex:0 SpName: spADM_GetDataSetParameters :
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsNjgsMSIsIm5iZiI6MTc2Mjk0NTY3NCwiZXhwIjoxNzYyOTc0NDc0LCJpYXQiOjE3NjI5NDU2NzR9.uUlZt52UgN13JX3iZ2uFIZRSIe9Tmi2dm_JEU_Gumco'''
+ ,1
+ ,1|Could not find stored procedure 'spADM_GetDataSet'.
+[System: 192.168.1.76] ERROR | 11-13-2025 09:42:16.153 | General Service|:: CompanyIndex:0 SpName: spADM_GetDataSetParameters :
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsNjgsMSIsIm5iZiI6MTc2Mjk0NTY3NCwiZXhwIjoxNzYyOTc0NDc0LCJpYXQiOjE3NjI5NDU2NzR9.uUlZt52UgN13JX3iZ2uFIZRSIe9Tmi2dm_JEU_Gumco'''
+ ,1
+ ,1|Could not find stored procedure 'spADM_GetDataSet'.
+[System: 192.168.1.76] ERROR | 11-13-2025 09:43:16.140 | General Service|:: CompanyIndex:0 SpName: spADM_GetDataSetParameters :
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsNjgsMSIsIm5iZiI6MTc2Mjk0NTY3NCwiZXhwIjoxNzYyOTc0NDc0LCJpYXQiOjE3NjI5NDU2NzR9.uUlZt52UgN13JX3iZ2uFIZRSIe9Tmi2dm_JEU_Gumco'''
+ ,1
+ ,1|Could not find stored procedure 'spADM_GetDataSet'.
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:00.943 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'admin'
+ ,1
+ ,0
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:01.036 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.79'
+ ,'192.168.1.79'
+ ,''
+ ,'Web'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:17.913 | General Service|:: CompanyIndex:268 SpName: spADM_GetClientUserDetails 
+ 'admin'
+ ,1
+ ,'26.8.4'
+ ,0
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.022 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,268
+ ,'192.168.1.79'
+ ,'192.168.1.79'
+ ,''
+ ,'Web'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.038 | General Service|:: CompanyIndex:0 SpName: spADM_Login 
+ 1
+ ,''
+ ,''
+ ,''
+ ,''
+ ,''
+ ,268
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.116 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select Value from ADM_GlobalPreferences with (nolock) where name =''EnableReLogin'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.257 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.335 | General Service|:: CompanyIndex:0 SpName: spADM_Login 
+ 4
+ ,''
+ ,''
+ ,''
+ ,'declare @Cnt int,@ExpiredGUID nvarchar(50),@AllowSession int,@GUID nvarchar(50),@CurrDate float,@UserID INT,@Instances INT,@InstancesExists INT,@LCDBIndex int
+set @CurrDate= convert(float,dateadd(minute,-21,getdate()))
+set @AllowSession=0
+set @GUID=''7c248bac-daa0-46d2-a000-e98a440a9d43''
+set @LCDBIndex=0
+select top 1 @UserID=UserID,@Instances=InstanceCount from ADM_Users with(nolock) where UserName=''admin''
+if exists(select [GUID] from ADM_Login with(nolock) where [GUID]=@GUID)
+begin
+	update ADM_Login 
+	set LastAccessTime=convert(float,getdate()),UserID=@UserID
+	where [GUID]=@GUID
+    set @AllowSession=1
+end
+else
+begin
+	select @Cnt=count(*) from ADM_Login with(nolock) where LCDBIndex=@LCDBIndex and [GUID]!=''ACCESSRIGHTS'' and AP =''WEB''
+    if(@Cnt<100)
+		set @AllowSession=1
+	else
+	begin
+		select top 1 @ExpiredGUID=[GUID] from ADM_Login with(nolock)
+		where [GUID]!=''ACCESSRIGHTS'' and LCDBIndex=@LCDBIndex and LastAccessTime<@CurrDate  and AP =''WEB''
+        order by LastAccessTime asc
+		if @ExpiredGUID is not null
+		begin
+			delete from ADM_Login where [GUID]=@ExpiredGUID
+			set @AllowSession=1
+		end
+	end
+	if @AllowSession=1
+	begin
+        select @InstancesExists=COUNT(*) from ADM_Login with(nolock)
+		where [GUID]!=''ACCESSRIGHTS'' and LCDBIndex=@LCDBIndex and LastAccessTime>=@CurrDate and UserID=@UserID and AP =''WEB''
+		if(@Instances!=0 and @Instances<=@InstancesExists)
+			set @AllowSession=2
+		else
+		    INSERT INTO ADM_Login([GUID],[SysName],IPAddress,[Status],LoginTime,LastAccessTime,AccessRights,UserID,DBIndex,LCDBIndex,AP)
+		    VALUES(@GUID,''WEB'',''192.168.1.79'',1,convert(float,getdate()),convert(float,getdate()),null,@UserID,268,@LCDBIndex, ''WEB'')
+	end
+end
+
+select @AllowSession AllowSession,@Instances Instances,@InstancesExists InstancesExists
+'
+ ,''
+ ,0
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.335 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.678 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT (SELECT COUNT(*) FROM COM_Location L WITH(NOLOCK) JOIN COM_Status S WITH(NOLOCK) ON S.StatusID=L.StatusID WHERE L.IsGroup=0 AND S.[Status]=''Active'') ML
+,(SELECT COUNT(*) FROM ADM_Features WITH(NOLOCK) WHERE ((FeatureID>50000 AND FeatureID<=50050) OR FeatureID>=51000) AND IsEnabled=1) MD
+,(SELECT ISNULL(COUNT(*),0) FROM ADM_RevenUReports WITH(NOLOCK) WHERE IsGroup=0 AND ReportID>10000 AND StaticReportType IN (0,-1)) MR'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:18.678 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:29.630 | General Service|:: CompanyIndex:268 SpName: spCOM_ConfigValues 
+ 1
+ ,'NotifTime'
+ ,''
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:29.630 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:43.525 | General Service|:: CompanyIndex:268 SpName: spADM_GetRibbonView 
+ 1
+ ,1
+ ,1
+ ,1
+ ,0
+ ,''
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:43.525 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.150 | General Service|:: CompanyIndex:268 SpName: spRPT_GetReport 
+ 2
+ ,0
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.150 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.243 | General Service|:: CompanyIndex:268 SpName: spADM_GetDashBoard 
+ 2
+ ,0
+ ,0
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.243 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.306 | General Service|:: CompanyIndex:268 SpName: spCOM_ConfigValues 
+ 1
+ ,'LandingDocs'
+ ,'1'
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:44.306 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:45.446 | General Service|:: CompanyIndex:268 SpName: spADM_GetAllListViewsDef 
+ 1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:45.446 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:45.556 | General Service|:: CompanyIndex:268 SpName: spADM_GetAllListViewsDef 
+ 1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:45.571 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:46.243 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'Select CostCenterID,CostCenterColID,CostCenterName,SysTableName,UserColumnName,SysColumnName,ISNULL(UserDefaultValue,'''') UserDefaultValue
+From AdM_CostCenterDef WITH(NOLOCK)
+Where SysColumnName IN(''CreditAccount'',''DebitAccount'',''ProductID'') 
+AND CostCenterID>40000 AND CostCenterID<50000 
+
+SELECT * FROM ADM_Features WITH(NOLOCK) '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:46.243 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:46.337 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '  SELECT * FROM PAY_PayrollPreferences WITH(NOLOCK) '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:46.352 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:48.277 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '  --0
+                                Select * FROM COM_CC50051 WITH(NOLOCK) WHERE IsGroup=0 AND LoginUserID=''admin''
+                                --1                                
+                                Select * FROM COM_CC50051 WITH(NOLOCK) WHERE RptManager IN (Select NodeID FROM COM_CC50051 WITH(NOLOCK) WHERE IsGroup=0 AND LoginUserID=''admin'')
+                                UNION ALL
+                                Select * FROM COM_CC50051 WITH(NOLOCK) WHERE RptManager IN 
+                                (
+	                                Select NodeID FROM COM_CC50051 WITH(NOLOCK) 
+	                                WHERE IsGroup=0 AND LoginUserID IN
+	                                (
+	                                SELECT fe.LoginUserID
+	                                FROM INV_DocDetails a WITH(NOLOCK) 
+	                                JOIN COM_DocCCData b WITH(NOLOCK) ON b.InvDocDetailsID=a.InvDocDetailsID
+	                                JOIN COM_DocNumData c WITH(NOLOCK) ON c.InvDocDetailsID=a.InvDocDetailsID
+	                                JOIN COM_DocTextData d WITH(NOLOCK) ON d.InvDocDetailsID=a.InvDocDetailsID
+	                                JOIN COM_CC50051 fe WITH(NOLOCK) on fe.NodeID=b.dcCCNID51
+	                                JOIN COM_CC50051 te WITH(NOLOCK) on CONVERT(NVARCHAR,te.NodeID)=d.dcAlpha1
+	                                WHERE a.CostCenterID=40098 and a.StatusID=369 AND d.dcAlpha3=''Temporary''
+	                                AND te.LoginUserID=''admin'' 
+	                                AND ISDATE(d.dcAlpha4)=1 AND ISDATE(d.dcAlpha5)=1 
+	                                AND CONVERT(DATETIME,''13 Nov 2025'') BETWEEN CONVERT(DATETIME,d.dcAlpha4) AND CONVERT(DATETIME,d.dcAlpha5)
+	                                )
+                                )
+                                --2
+                                Select * FROM ADM_USERS WITH(NOLOCK) WHERE USERID=1
+                                --3
+                                Select * FROM COM_CostCenterCostCenterMap WITH(NOLOCK) WHERE ParentCostCenterID=7 AND ParentNodeID=1
+                                --4                                
+                                Select * FROM COM_CostCenterCostCenterMap WITH(NOLOCK) WHERE ParentCostCenterID=7 AND ParentNodeID=1
+                                AND CostCenterID IN(Select ColumnCostCenterID From ADM_CostCenterDef Where CostCenterID=50051 AND IsColumnInUse=1 AND SysColumnName LIKE ''CCNID%'')
+                                --5
+                                Select * from COM_Files WITH(NOLOCK) WHERE FeatureID=50051 AND FeaturePK IN (Select NodeID FROM COM_CC50051 WITH(NOLOCK) WHERE IsGroup=0 AND LoginUserID=''admin'')                         
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:48.277 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:48.683 | General Service|:: CompanyIndex:268 SpName: spADM_GetDashBoard 
+ 1
+ ,61
+ ,0
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:48.699 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spCOM_GetFavorites 
+ 'VIEW'
+ ,37422
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spCOM_GetFavorites 
+ 'VIEW'
+ ,37397
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spCOM_GetFavorites 
+ 'VIEW'
+ ,37414
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spCOM_GetFavorites 
+ 'VIEW'
+ ,37495
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.527 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:49.543 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:51.605 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'declare @UserID int,@RoleID int,@UserName NVARCHAR(100),@where nvarchar(max),@query nvarchar(max)
+set @UserID=1
+set @RoleID=1-- Employee:-1
+SELECT @UserName=UserName From ADM_Users WITH(NOLOCK) WHERE UserID=@UserID
+exec [fnGet_GetAssignedDims] @UserID,@RoleID,@where output
+ create table #TblUsrWF(WID int,LevelID int,Type int,CtWef float,LvWef int)
+EXEC spRPT_GetReportData @Type=8,@Param1=@UserID,@strXML=null,@RoleID=@RoleID set @query=''  SELECT DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory,count(*) CNT
+FROM (
+ SELECT INV.CostCenterID
+FROM INV_DocDetails INV with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on INV.INVDocDetailsid=d.INVDocDetailsid''	
+
+set @query=@query+'' ,#TblUsrWF WF
+WHERE WF.WID=INV.WorkflowID and (WF.LevelID>INV.WorkFlowLevel or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372)) and (INV.StatusID=371 or INV.StatusID=372 or INV.StatusID=441) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=372) or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372) or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) ''+@where+''
+GROUP BY INV.CostCenterID,INV.VoucherNo
+UNION ALL
+SELECT ACC.CostCenterID
+FROM ACC_DocDetails ACC with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on ACC.ACCDocDetailsid=d.ACCDocDetailsid''	
+
+set @query=@query+'',#TblUsrWF WF
+WHERE ACC.LinkedAccDocDetailsID is null and ACC.InvDocDetailsID is null and WF.WID=ACC.WorkflowID and (WF.LevelID>ACC.WorkFlowLevel or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372)) and (ACC.StatusID=371 or ACC.StatusID=372 or ACC.StatusID=441) AND (WF.Type=1 or (ACC.WorkFlowLevel+1=WF.LevelID and ACC.StatusID!=372) or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372) or (WF.CtWef is not null and ACC.WorkFlowLevel>=WF.LvWef
+and ACC.CreatedDate+WF.CtWef<=convert(float,getdate())))''+@where+''
+GROUP BY ACC.CostCenterID,ACC.VoucherNo  ) AS T
+JOIN ADM_DocumentTypes DT with(nolock) ON T.CostCenterID=DT.CostCenterID
+GROUP BY DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory  
+UNION ALL
+SELECT DT.FeatureID CostCenterID,DT.Name DocumentName,-DT.FeatureID DocumentType,0 IsInventory,count(*) CNT
+FROM (
+SELECT INV.CostCenterID FROM REN_Contract INV WITH(NOLOCK),#TblUsrWF WF
+WHERE  WF.WID=INV.WorkflowID and WF.LevelID>INV.WorkFlowLevel and (INV.StatusID=440 or INV.StatusID=470 or INV.StatusID=466) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=470)  or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+ and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) AND INV.RefContractID=0 ) AS T
+JOIN ADM_Features DT with(nolock) ON T.CostCenterID=DT.FeatureID
+GROUP BY DT.FeatureID,DT.Name 
+ORDER BY DocumentName''
+exec(@query)
+
+DROP TABLE #TblUsrWF
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:46:51.605 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:48.392 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'declare @UserID int,@RoleID int,@UserName NVARCHAR(100),@where nvarchar(max),@query nvarchar(max)
+set @UserID=1
+set @RoleID=1-- Employee:-1
+SELECT @UserName=UserName From ADM_Users WITH(NOLOCK) WHERE UserID=@UserID
+exec [fnGet_GetAssignedDims] @UserID,@RoleID,@where output
+ create table #TblUsrWF(WID int,LevelID int,Type int,CtWef float,LvWef int)
+EXEC spRPT_GetReportData @Type=8,@Param1=@UserID,@strXML=null,@RoleID=@RoleID set @query=''  SELECT DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory,count(*) CNT
+FROM (
+ SELECT INV.CostCenterID
+FROM INV_DocDetails INV with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on INV.INVDocDetailsid=d.INVDocDetailsid''	
+
+set @query=@query+'' ,#TblUsrWF WF
+WHERE WF.WID=INV.WorkflowID and (WF.LevelID>INV.WorkFlowLevel or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372)) and (INV.StatusID=371 or INV.StatusID=372 or INV.StatusID=441) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=372) or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372) or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) ''+@where+''
+GROUP BY INV.CostCenterID,INV.VoucherNo
+UNION ALL
+SELECT ACC.CostCenterID
+FROM ACC_DocDetails ACC with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on ACC.ACCDocDetailsid=d.ACCDocDetailsid''	
+
+set @query=@query+'',#TblUsrWF WF
+WHERE ACC.LinkedAccDocDetailsID is null and ACC.InvDocDetailsID is null and WF.WID=ACC.WorkflowID and (WF.LevelID>ACC.WorkFlowLevel or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372)) and (ACC.StatusID=371 or ACC.StatusID=372 or ACC.StatusID=441) AND (WF.Type=1 or (ACC.WorkFlowLevel+1=WF.LevelID and ACC.StatusID!=372) or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372) or (WF.CtWef is not null and ACC.WorkFlowLevel>=WF.LvWef
+and ACC.CreatedDate+WF.CtWef<=convert(float,getdate())))''+@where+''
+GROUP BY ACC.CostCenterID,ACC.VoucherNo  ) AS T
+JOIN ADM_DocumentTypes DT with(nolock) ON T.CostCenterID=DT.CostCenterID
+GROUP BY DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory  
+UNION ALL
+SELECT DT.FeatureID CostCenterID,DT.Name DocumentName,-DT.FeatureID DocumentType,0 IsInventory,count(*) CNT
+FROM (
+SELECT INV.CostCenterID FROM REN_Contract INV WITH(NOLOCK),#TblUsrWF WF
+WHERE  WF.WID=INV.WorkflowID and WF.LevelID>INV.WorkFlowLevel and (INV.StatusID=440 or INV.StatusID=470 or INV.StatusID=466) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=470)  or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+ and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) AND INV.RefContractID=0 ) AS T
+JOIN ADM_Features DT with(nolock) ON T.CostCenterID=DT.FeatureID
+GROUP BY DT.FeatureID,DT.Name 
+ORDER BY DocumentName''
+exec(@query)
+
+DROP TABLE #TblUsrWF
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:48.392 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:55.950 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterGridViewList 
+ 50051
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:55.965 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:58.355 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterSummary 
+ 350
+ ,-1
+ ,1000
+ ,' 1=1 '
+ ,''
+ ,''
+ ,0
+ ,'13-Nov-2025'
+ ,NULL
+ ,''
+ ,1
+ ,1
+ ,0
+ ,0
+ ,False
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:47:58.355 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:00.857 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterQuickViewDefn 
+ 50051
+ ,'1289'
+ ,50051
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:00.857 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:01.707 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterQuickViewSummary 
+ 50051
+ ,'1289'
+ ,50051
+ ,'13/Nov/2025 09:48:01 AM'
+ ,NULL
+ ,0
+ ,783
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:01.707 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:04.177 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterQuickViewSummary 
+ 50051
+ ,'1288'
+ ,50051
+ ,'13/Nov/2025 09:48:04 AM'
+ ,NULL
+ ,0
+ ,783
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:04.192 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:06.926 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterQuickViewSummary 
+ 50051
+ ,'1289'
+ ,50051
+ ,'13/Nov/2025 09:48:07 AM'
+ ,NULL
+ ,0
+ ,783
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:06.942 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:10.228 | General Service|:: CompanyIndex:268 SpName: spCom_GetCostCenterQuickViewSummary 
+ 50051
+ ,'1290'
+ ,50051
+ ,'13/Nov/2025 09:48:10 AM'
+ ,NULL
+ ,0
+ ,783
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:10.243 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:11.872 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select isnull(FolderPath,'''')  FolderPath from com_files WITH(NOLOCK)  where GUID=''40120f6b-a127-4bbb-b694-63e9270311bf'' '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:33.021 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:33.052 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select isnull(FolderPath,'''')  FolderPath from com_files WITH(NOLOCK)  where GUID=''40120f6b-a127-4bbb-b694-63e9270311bf'' '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.111 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.252 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'declare @UserID int,@RoleID int,@UserName NVARCHAR(100),@where nvarchar(max),@query nvarchar(max)
+set @UserID=1
+set @RoleID=1-- Employee:-1
+SELECT @UserName=UserName From ADM_Users WITH(NOLOCK) WHERE UserID=@UserID
+exec [fnGet_GetAssignedDims] @UserID,@RoleID,@where output
+ create table #TblUsrWF(WID int,LevelID int,Type int,CtWef float,LvWef int)
+EXEC spRPT_GetReportData @Type=8,@Param1=@UserID,@strXML=null,@RoleID=@RoleID set @query=''  SELECT DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory,count(*) CNT
+FROM (
+ SELECT INV.CostCenterID
+FROM INV_DocDetails INV with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on INV.INVDocDetailsid=d.INVDocDetailsid''	
+
+set @query=@query+'' ,#TblUsrWF WF
+WHERE WF.WID=INV.WorkflowID and (WF.LevelID>INV.WorkFlowLevel or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372)) and (INV.StatusID=371 or INV.StatusID=372 or INV.StatusID=441) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=372) or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372) or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) ''+@where+''
+GROUP BY INV.CostCenterID,INV.VoucherNo
+UNION ALL
+SELECT ACC.CostCenterID
+FROM ACC_DocDetails ACC with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on ACC.ACCDocDetailsid=d.ACCDocDetailsid''	
+
+set @query=@query+'',#TblUsrWF WF
+WHERE ACC.LinkedAccDocDetailsID is null and ACC.InvDocDetailsID is null and WF.WID=ACC.WorkflowID and (WF.LevelID>ACC.WorkFlowLevel or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372)) and (ACC.StatusID=371 or ACC.StatusID=372 or ACC.StatusID=441) AND (WF.Type=1 or (ACC.WorkFlowLevel+1=WF.LevelID and ACC.StatusID!=372) or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372) or (WF.CtWef is not null and ACC.WorkFlowLevel>=WF.LvWef
+and ACC.CreatedDate+WF.CtWef<=convert(float,getdate())))''+@where+''
+GROUP BY ACC.CostCenterID,ACC.VoucherNo  ) AS T
+JOIN ADM_DocumentTypes DT with(nolock) ON T.CostCenterID=DT.CostCenterID
+GROUP BY DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory  
+UNION ALL
+SELECT DT.FeatureID CostCenterID,DT.Name DocumentName,-DT.FeatureID DocumentType,0 IsInventory,count(*) CNT
+FROM (
+SELECT INV.CostCenterID FROM REN_Contract INV WITH(NOLOCK),#TblUsrWF WF
+WHERE  WF.WID=INV.WorkflowID and WF.LevelID>INV.WorkFlowLevel and (INV.StatusID=440 or INV.StatusID=470 or INV.StatusID=466) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=470)  or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+ and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) AND INV.RefContractID=0 ) AS T
+JOIN ADM_Features DT with(nolock) ON T.CostCenterID=DT.FeatureID
+GROUP BY DT.FeatureID,DT.Name 
+ORDER BY DocumentName''
+exec(@query)
+
+DROP TABLE #TblUsrWF
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.267 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.408 | General Service|:: CompanyIndex:268 SpName: spCOM_GetDimensionTabGridData 
+ 50051
+ ,65
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.408 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.455 | General Service|:: CompanyIndex:268 SpName: spCOM_GetDimensionTabGridData 
+ -1
+ ,110
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:54.455 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.579 | General Service|:: CompanyIndex:268 SpName: spCOM_GetCostCenterScreenDetails 
+ 110
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.594 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.641 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT CostCenterColID,QuickAddOrder FROM ADM_CostCenterDef with(nolock) WHERE CostCenterID=110 AND ShowInQuickAdd=1  ORDER BY QuickAddOrder
+                    SELECT CostCenterColID,SysColumnName FROM ADM_CostCenterDef with(nolock) WHERE CostCenterID=144 and LocalReference=110 AND ShowInQuickAdd=1'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.641 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.735 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'DECLARE @SQL NVARCHAR(MAX),@LDPref bit,@CCId INT ,@LDBONRolePref bit , @LUBOnPref bit
+                        SET @CCId=50051
+                        SET @SQL='' select FeatureID,Name, TableName from ADM_Features with(nolock) where FeatureID>50000 and IsEnabled=1 ''
+
+                        SELECT @LDBONRolePref=ISNULL(Value,0) From COM_CostCenterPreferences WHERE CostCenterID=@CCId AND Name=''LoadDimensionsBasedOnRoleInAssignTab''
+                        IF(@LDBONRolePref = 1)
+                            SET @SQL+='' AND FeatureID IN (select FA.FeatureID from adm_featureactionrolemap FAR with(nolock)
+inner join adm_featureaction FA with(nolock) on FAR.FeatureActionID=FA.FeatureActionID
+where FAR.RoleID=1 and (FA.FeatureActionTypeID=1 or FA.FeatureActionTypeID=2)) ''
+
+                        SELECT @LDPref=ISNULL(Value,0) From COM_CostCenterPreferences WHERE CostCenterID=@CCId AND Name=''LoadDocumentsInAssignTab''
+                        IF(@LDPref=1)
+                            SET @SQL+='' UNION ALL select 300,''''Documents'''',''''ADM_DocumentTypes''''''
+
+	                    SELECT @LUBOnPref=ISNULL(Value,0) From COM_CostCenterPreferences WHERE CostCenterID=@CCId AND Name=''EnableLoadUserDataBasedOnMappedFields''
+                        IF(@LUBOnPref=1)
+                           SET @SQL+='' UNION ALL  select FeatureID,Name, TableName from ADM_Features where FeatureID =7''
+                        SET @SQL+='' ORDER BY Name ''
+                        IF(@CCId > 50000)
+                            SET @SQL+='' select ListViewTypeID TypeID,CostCenterID from ADM_ListViewCCMap with(nolock) where SourceCostCenterID=''+CONVERT(NVARCHAR,@CCId) 
+            
+                        EXEC(@SQL)'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.750 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.891 | General Service|:: CompanyIndex:268 SpName: spCOM_GetCostCenterScreenDetails 
+ 50051
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:56.891 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.251 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+DECLARE @Grade int,@IsGradeWiseMP BIT
+SELECT @IsGradeWiseMP=CONVERT(BIT,Value) FROM ADM_GlobalPreferences WITH(NOLOCK)
+WHERE Name=''GradeWiseMonthlyPayroll''
+SET @Grade= 1
+
+IF @IsGradeWiseMP=1
+BEGIN
+    SELECT TOP 1 @Grade= ISNULL(HistoryNodeID,1) FROM COM_HistoryDetails WITH(NOLOCK) 
+	WHERE NodeID=1290 AND CostCenterID=50051 AND HistoryCCID=50053   
+	ORDER BY FromDate DESC
+END
+IF @Grade IS NULL
+    SET @Grade= 1
+
+SELECT b.Name as ComponentName,CONVERT(DATETIME,a.PayrollDate) as PayrollMonth,isnull(b.AliasName,'''') ResourceData,a.* 
+,ROW_NUMBER() OVER (PARTITION BY Type ORDER BY Type) AS Serial
+FROM COM_CC50054 a WITH(NOLOCK) 
+LEFT JOIN COM_CC50052 b WITH(NOLOCK) on b.NodeID=a.ComponentID
+WHERE a.GradeID=@Grade AND DATEDIFF(DAY,PayrollDate,''01-Nov-2025'')=0
+Order By a.Type,a.SNo 
+
+SELECT b.Name as ComponentName,CONVERT(DATETIME,a.PayrollDate) as PayrollMonth,isnull(b.AliasName,'''') ResourceData,a.* 
+,ROW_NUMBER() OVER (PARTITION BY Type ORDER BY Type) AS Serial
+FROM COM_CC50054 a WITH(NOLOCK) 
+LEFT JOIN COM_CC50052 b WITH(NOLOCK) on b.NodeID=a.ComponentID
+WHERE a.GradeID=@Grade AND PayrollDate=(Select Max(PayrollDate) From COM_CC50054  WITH(NOLOCK) 
+Where CONVERT(DATETIME,PAYROLLDATE)<= CONVERT(DATETIME,''01-Nov-2025'') AND GradeID=@Grade)
+Order By a.Type,a.SNo '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.266 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.500 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT a.SeqNo,a.*,CONVERT(DATETIME,a.EffectFrom) AppraisalDate, b.Name as sAppraisalType
+	                        FROM PAY_EmpPay a WITH(NOLOCK) 
+                            LEFT JOIN COM_LookUp b WITH(NOLOCK) on b.LookUpType=119 AND b.NodeID=ISNULL(a.AppraisalType,0)
+                            WHERE a.EmployeeID=1290 ORDER BY a.EffectFrom ASC'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.500 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.547 | General Service|:: CompanyIndex:268 SpName: spCOM_GetDimensionTabGridData 
+ 251
+ ,251
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.547 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.578 | General Service|:: CompanyIndex:268 SpName: spCOM_GetCostCenterScreenDetails 
+ 251
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.578 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.906 | General Service|:: CompanyIndex:268 SpName: spADM_GetUserRoles 
+ NULL
+ ,NULL
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:57.906 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.235 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT * FROM PAY_TimeZone WITH(NOLOCK)'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.250 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.282 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT a.UserColumnName,a.SysColumnName,a.ResourceID,b.ResourceData
+                        FROM ADM_CostCenterDef a WITH(NOLOCK)
+                        JOIN COM_LanguageResources b WITH(NOLOCK) on b.ResourceID=a.ResourceID
+                        WHERE CostCenterID=40085 AND UserColumnName<>SysColumnName
+                        AND SysColumnName LIKE ''dcAlpha%'' AND b.LanguageID=1'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.282 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.594 | General Service|:: CompanyIndex:268 SpName: spPAY_GetEmpMasterCCDetails 
+ '30 Nov 2025'
+ ,''
+ ,0
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.594 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.688 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'DECLARE @SQL NVARCHAR(MAX),@Rcnt INt,@RId INT,@UserColumnName NVARCHAR(MAX),@SysTableName NVARCHAR(MAX),@SysColName NVARCHAR(MAX)
+                                DECLARE @TEMP TABLE(ID INT IDENTITY(1,1),SysColName NVARCHAR(MAX),UserColumnName NVARCHAR(MAX),SysTableName NVARCHAR(MAX))
+                                SET @SQL=''''
+                                INSERT INTO @TEMP		
+                                SELECT SysColumnName,UserColumnName,ParentCostCenterSysName FROM ADM_CostCenterDef WITH(NOLOCK) WHERE CostCenterID=50051 AND SysColumnName LIKE''CCNID%'' AND IsColumnInUse=1
+                                SET @RCnt=@@ROWCOUNT
+                                SET @RId=1
+                                SET @SQL=@SQL+''SELECT ''''RptManager'''' as SysColName,''''RptManager'''' as UserColumnName,NODEID as NodeID,CODE as Code,NAME as Name FROM COM_CC50051 WITH(NOLOCK) WHERE NODEID>0 ''                                                            
+                                WHILE(@RId<=@RCnt)
+                                BEGIN
+	
+	                            SELECT @SysColName=SysColName,@UserColumnName=UserColumnName,@SysTableName=SysTableName FROM @TEMP WHERE ID=@RId
+	
+	                            IF(LEN(@SQL)>0)
+	                            BEGIN
+	                            SET @SQL=@SQL + '' 
+	                            UNION ''
+	                            END
+    
+                                SET @SQL=@SQL+''SELECT ''''''+@SysColName+'''''' as SysColName,''''''+@UserColumnName+'''''' as UserColumnName,NODEID as NodeID,CODE as Code,NAME as Name FROM ''+@SysTableName+'' WITH(NOLOCK) WHERE NODEID>0 ''
+	                            SET @RId=@RId+1
+	
+                                END
+                                EXEC(@SQL)'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.688 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.719 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT a.SeqNo,a.*,CONVERT(DATETIME,a.EffectFrom) AppraisalDate, b.Name as sAppraisalType
+	                        FROM PAY_EmpPay a WITH(NOLOCK) 
+                            LEFT JOIN COM_LookUp b WITH(NOLOCK) on b.LookUpType=119 AND b.NodeID=ISNULL(a.AppraisalType,0)
+                            WHERE a.EmployeeID=1290 ORDER BY a.EffectFrom ASC'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:48:58.719 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.310 | General Service|:: CompanyIndex:268 SpName: spPAY_GetEmpMasterDetails 
+ 1290
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.310 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.341 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT * FROM COM_CC50068 WITH(NOLOCK) WHERE NodeID=7'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.341 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.373 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+select NodeID PK,Code Code,Name Name from COM_Location WITH(NOLOCK) where NodeID=8'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.373 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.404 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+select NodeID PK,Code Code,Name Name from COM_CC50069 WITH(NOLOCK) where NodeID=264'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.404 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.435 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+select NodeID PK,Code Code,Name Name from COM_Department WITH(NOLOCK) where NodeID=10'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.435 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.451 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+select NodeID PK,Code Code,Name Name from COM_CC50053 WITH(NOLOCK) where NodeID=1'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.466 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.544 | General Service|:: CompanyIndex:268 SpName: spCOM_GetCostCenterScreenDetails 
+ 65
+ ,1
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.544 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.576 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT CostCenterColID,QuickAddOrder FROM ADM_CostCenterDef with(nolock) WHERE CostCenterID=65 AND ShowInQuickAdd=1  ORDER BY QuickAddOrder
+                    SELECT CostCenterColID,SysColumnName FROM ADM_CostCenterDef with(nolock) WHERE CostCenterID=144 and LocalReference=65 AND ShowInQuickAdd=1'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.576 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.810 | General Service|:: CompanyIndex:268 SpName: spADM_GetUserRoles 
+ NULL
+ ,NULL
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:02.826 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.123 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ ' SELECT * FROM COM_FILES WITH(NOLOCK) WHERE FEATUREID IN(251,252,253,254,255)'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.123 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.138 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+SELECT a.NodeID as EmpSeqNo,a.*,CONVERT(DATETIME,a.DOJ) CDOJ,CONVERT(DATETIME,a.DOB) CDOB,CONVERT(DATETIME,a.DOConfirmation) CDOC,CONVERT(DATETIME,a.DORelieve) CDORelieve,
+ISNULL(ET.Name,'''') as sEmpType,ISNULL(N.Name,'''') as sNationality,ISNULL(R.Name,'''') as sReligion,
+ISNULL(G.Name,'''') as sGender,ISNULL(MS.Name,'''') as sMaritalStatus
+
+FROM COM_CC50051 a WITH(NOLOCK)
+LEFT JOIN COM_Lookup ET WITH(NOLOCK) on ET.NodeID=a.EmpType
+LEFT JOIN COM_Lookup N WITH(NOLOCK) on N.NodeID=a.Nationality
+LEFT JOIN COM_Lookup R WITH(NOLOCK) on R.NodeID=a.Religion
+LEFT JOIN COM_Lookup G WITH(NOLOCK) on G.NodeID=a.Gender
+LEFT JOIN COM_Lookup MS WITH(NOLOCK) on MS.NodeID=a.MaritalStatus
+WHERE a.NodeID=1290'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.154 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.185 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'SELECT a.SeqNo,a.*,CONVERT(DATETIME,a.EffectFrom) AppraisalDate, b.Name as sAppraisalType
+	                        FROM PAY_EmpPay a WITH(NOLOCK) 
+                            LEFT JOIN COM_LookUp b WITH(NOLOCK) on b.LookUpType=119 AND b.NodeID=ISNULL(a.AppraisalType,0)
+                            WHERE a.EmployeeID=1290 ORDER BY a.EffectFrom ASC'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.185 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.200 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+SELECT a.NodeID as EmpSeqNo,a.*,CONVERT(DATETIME,a.DOJ) CDOJ,CONVERT(DATETIME,a.DOB) CDOB,CONVERT(DATETIME,a.DOConfirmation) CDOC,CONVERT(DATETIME,a.DORelieve) CDORelieve,
+ISNULL(ET.Name,'''') as sEmpType,ISNULL(N.Name,'''') as sNationality,ISNULL(R.Name,'''') as sReligion,
+ISNULL(G.Name,'''') as sGender,ISNULL(MS.Name,'''') as sMaritalStatus
+
+FROM COM_CC50051 a WITH(NOLOCK)
+LEFT JOIN COM_Lookup ET WITH(NOLOCK) on ET.NodeID=a.EmpType
+LEFT JOIN COM_Lookup N WITH(NOLOCK) on N.NodeID=a.Nationality
+LEFT JOIN COM_Lookup R WITH(NOLOCK) on R.NodeID=a.Religion
+LEFT JOIN COM_Lookup G WITH(NOLOCK) on G.NodeID=a.Gender
+LEFT JOIN COM_Lookup MS WITH(NOLOCK) on MS.NodeID=a.MaritalStatus
+WHERE a.NodeID=1290'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:03.200 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:24.269 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.066 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ '
+DECLARE	@return_value int, @AsOnStatus nvarchar(500)
+EXEC	@return_value = [dbo].[spPAY_GetEmpAsOnStatus]
+		@EmpSeqNo = 1290,
+		@AsOnDate = N''13-Nov-2025'',
+		@LangID = 1,
+		@AsOnStatus = @AsOnStatus OUTPUT
+SELECT	@AsOnStatus as AsOnStatus
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.066 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.159 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ ' declare @UserID int,@RoleID int        set @UserID=1 set @RoleID=1    
+        SELECT R.ReportID,Q.ReportName,Q.ReportField,Q.ReportFieldName,Q.DocumentField,Q.DocumentFieldName,A.SysColumnName,Q.Shortcut,Q.DisplayAsPopup,Q.GroupLevel,Q.Width ,Q.Height,Q.mapxml,Q.MapType
+        FROM ADM_RevenUReports R  with(nolock)
+        inner join ADM_DocumentReports Q WITH(NOLOCK) on Q.DocumentReportID=R.ReportID
+        left join ADM_CostCenterDef A WITH(NOLOCK) on A.CostCenterColID=Q.DocumentField 
+        left join [ADM_DocReportUserRoleMap] DR WITH(NOLOCK) on DR.DocumentViewID=Q.DocumentViewID and DR.CostCenterID=Q.CostCenterID
+        where  Q.CostCenterID=50051 and (DR.UserID=@UserID OR DR.RoleID=@RoleID OR GroupID IN (SELECT GroupID FROM COM_Groups WITH(NOLOCK) WHERE UserID=@UserID OR RoleID=@RoleID))
+        GROUP BY  Q.ReportID, R.ReportID,Q.ReportName,Q.ReportField,Q.ReportFieldName,Q.DocumentField,Q.DocumentFieldName,A.SysColumnName,Q.Shortcut,Q.DisplayAsPopup,Q.GroupLevel ,Q.Width,Q.Height,Q.mapxml,Q.MapType 
+        order by Q.ReportID '
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.159 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.456 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 601
+ ,'a.Code,a.Name'
+ ,''
+ ,''
+ ,'Code'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,1289
+ ,' 1=1 '
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.472 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.503 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 500024
+ ,'a.Name,a.Code'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,839
+ ,' 1=1 '
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.503 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.550 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 500069
+ ,'a.Name,a.AliasName'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,''
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.550 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.581 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 268
+ ,'a.Name,a.Code'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,8
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.581 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.628 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 681
+ ,'a.Name,a.Code'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,264
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.628 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.659 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 270
+ ,'a.Name,a.Code, SCC2.ResourceData as StatusID'
+ ,''
+ ,' LEFT JOIN COM_Status CC2 with(nolock) ON CC2.StatusID=a.StatusID LEFT JOIN COM_LanguageResources SCC2 with(nolock) ON SCC2.ResourceID=CC2.ResourceID AND SCC2.LanguageID=1'
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,10
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.659 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.691 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 606
+ ,'a.Code,a.Name'
+ ,''
+ ,''
+ ,'Code'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,1
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.691 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.878 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 678
+ ,'a.Name,a.Code'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,7
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.878 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.909 | General Service|:: CompanyIndex:268 SpName: spADM_GetCostCenterListViewData 
+ 678
+ ,'a.Name,a.Code'
+ ,''
+ ,''
+ ,'Name'
+ ,''
+ ,30
+ ,False
+ ,''
+ ,7
+ ,''
+ ,''
+ ,''
+ ,0
+ ,False
+ ,''
+ ,''
+ ,'1'
+ ,'1'
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:25.909 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:53.865 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:54.618 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'declare @UserID int,@RoleID int,@UserName NVARCHAR(100),@where nvarchar(max),@query nvarchar(max)
+set @UserID=1
+set @RoleID=1-- Employee:-1
+SELECT @UserName=UserName From ADM_Users WITH(NOLOCK) WHERE UserID=@UserID
+exec [fnGet_GetAssignedDims] @UserID,@RoleID,@where output
+ create table #TblUsrWF(WID int,LevelID int,Type int,CtWef float,LvWef int)
+EXEC spRPT_GetReportData @Type=8,@Param1=@UserID,@strXML=null,@RoleID=@RoleID set @query=''  SELECT DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory,count(*) CNT
+FROM (
+ SELECT INV.CostCenterID
+FROM INV_DocDetails INV with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on INV.INVDocDetailsid=d.INVDocDetailsid''	
+
+set @query=@query+'' ,#TblUsrWF WF
+WHERE WF.WID=INV.WorkflowID and (WF.LevelID>INV.WorkFlowLevel or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372)) and (INV.StatusID=371 or INV.StatusID=372 or INV.StatusID=441) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=372) or (WF.LevelID+1=INV.WorkFlowLevel and INV.StatusID=372) or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) ''+@where+''
+GROUP BY INV.CostCenterID,INV.VoucherNo
+UNION ALL
+SELECT ACC.CostCenterID
+FROM ACC_DocDetails ACC with(nolock)''
+if(@where<>'''')
+	set @query=@query+'' join com_docccdata d with(nolock) on ACC.ACCDocDetailsid=d.ACCDocDetailsid''	
+
+set @query=@query+'',#TblUsrWF WF
+WHERE ACC.LinkedAccDocDetailsID is null and ACC.InvDocDetailsID is null and WF.WID=ACC.WorkflowID and (WF.LevelID>ACC.WorkFlowLevel or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372)) and (ACC.StatusID=371 or ACC.StatusID=372 or ACC.StatusID=441) AND (WF.Type=1 or (ACC.WorkFlowLevel+1=WF.LevelID and ACC.StatusID!=372) or (WF.LevelID+1=ACC.WorkFlowLevel and ACC.StatusID=372) or (WF.CtWef is not null and ACC.WorkFlowLevel>=WF.LvWef
+and ACC.CreatedDate+WF.CtWef<=convert(float,getdate())))''+@where+''
+GROUP BY ACC.CostCenterID,ACC.VoucherNo  ) AS T
+JOIN ADM_DocumentTypes DT with(nolock) ON T.CostCenterID=DT.CostCenterID
+GROUP BY DT.CostCenterID,DT.DocumentName,DT.DocumentType,DT.IsInventory  
+UNION ALL
+SELECT DT.FeatureID CostCenterID,DT.Name DocumentName,-DT.FeatureID DocumentType,0 IsInventory,count(*) CNT
+FROM (
+SELECT INV.CostCenterID FROM REN_Contract INV WITH(NOLOCK),#TblUsrWF WF
+WHERE  WF.WID=INV.WorkflowID and WF.LevelID>INV.WorkFlowLevel and (INV.StatusID=440 or INV.StatusID=470 or INV.StatusID=466) AND (WF.Type=1 or (INV.WorkFlowLevel+1=WF.LevelID and INV.StatusID!=470)  or (WF.CtWef is not null and INV.WorkFlowLevel>=WF.LvWef
+ and INV.CreatedDate+WF.CtWef<=convert(float,getdate()))) AND INV.RefContractID=0 ) AS T
+JOIN ADM_Features DT with(nolock) ON T.CostCenterID=DT.FeatureID
+GROUP BY DT.FeatureID,DT.Name 
+ORDER BY DocumentName''
+exec(@query)
+
+DROP TABLE #TblUsrWF
+'
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:49:54.618 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1
+[System: 192.168.1.79] DEBUG | 11-13-2025 09:50:23.886 | General Service|:: CompanyIndex:268 SpName: spADM_GetDataSet 
+ 'select * from COM_TokenHistory WITH(NOLOCK) where JwtToken=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluLDEsMjY4LDEiLCJuYmYiOjE3NjMwMDczNzcsImV4cCI6MTc2MzAzNjE3NywiaWF0IjoxNzYzMDA3Mzc3fQ.YhUlXpNwQ4QrJ_63H6VcUMzEJUD_qurLBIZdnj1xX-c'''
+ ,1
+ ,1

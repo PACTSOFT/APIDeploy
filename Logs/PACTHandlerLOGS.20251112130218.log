@@ -1,0 +1,39 @@
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:02:21.703 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'admin'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:02:21.844 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.99'
+ ,'192.168.1.99'
+ ,''
+ ,'Web'
+ ,1
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:02:50.009 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'admin'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:02:50.024 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.99'
+ ,'192.168.1.99'
+ ,''
+ ,'Web'
+ ,1
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:04:10.222 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'admin'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 11-12-2025 13:04:10.268 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.99'
+ ,'192.168.1.99'
+ ,''
+ ,'Web'
+ ,1

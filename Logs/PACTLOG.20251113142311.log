@@ -1,0 +1,43 @@
+[Sys Thread: 1] INFO | 11-13-2025 14:23:11.586 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 11-13-2025 14:23:11.586 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 11-13-2025 14:23:11.586 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 11-13-2025 14:23:11.586 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:14.757 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:14.757 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:14.757 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:15.678 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:15.678 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:15.678 | Common:: DecodeBase64 START
+[System: 192.168.1.99] ERROR | 11-13-2025 14:23:24.864 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 11-13-2025 14:23:24.864 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.460 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.460 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.460 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.476 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.476 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:23:54.476 | Common:: DecodeBase64 START
+[System: 192.168.1.99] ERROR | 11-13-2025 14:24:04.495 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 11-13-2025 14:24:04.495 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.472 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.472 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.472 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.487 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.487 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:24:54.487 | Common:: DecodeBase64 START
+[System: 192.168.1.99] ERROR | 11-13-2025 14:25:04.574 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 11-13-2025 14:25:04.574 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 11-13-2025 14:26:04.581 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 11-13-2025 14:26:04.581 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.573 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.573 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.573 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.573 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.573 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.604 | Administration:: Entering LDAPChecking
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.604 | isValidUser:: True
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.604 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.635 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.635 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.635 | Administration:: Entering LDAPChecking
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.635 | isValidUser:: True
+[System: 192.168.1.99] INFO | 11-13-2025 14:26:52.635 | AdminController:: Exiting LDAPUserCheck
