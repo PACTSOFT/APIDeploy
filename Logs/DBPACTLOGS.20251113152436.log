@@ -1,8 +1,0 @@
-[Sys Thread: 79] INFO | 11-13-2025 15:24:36.376 | DBLOGGER Initiated
-[System: 192.168.1.73] INFO | 11-13-2025 15:24:36.923 | Model :: DBHandler :: :: Entering Set Method. CompanyIndex = 53;  SPName = spCRM_SetLead
-[System: 192.168.1.77] INFO | 11-13-2025 15:24:36.939 | Model :: DBHandler :: :: Entering Get Method. CompanyIndex = 326;  SPName = spADM_GetDataSet
-[System: 192.168.1.73] INFO | 11-13-2025 15:24:37.001 | Model :: DBHandler :: :: Entering Get Method. CompanyIndex = 53;  SPName = spADM_GetDataSet
-[System: 192.168.1.73] INFO | 11-13-2025 15:24:37.017 | Model :: DBHandler :: :: Exiting Get Method.
-[System: 192.168.1.77] INFO | 11-13-2025 15:24:37.282 | Model :: DBHandler :: :: Exiting Get Method.
-[System: 192.168.1.77] INFO | 11-13-2025 15:24:37.298 | Model :: DBHandler :: :: Entering Get Method. CompanyIndex = 326;  SPName = spADM_GetDataSet
-[System: 192.168.1.77] INFO | 11-13-2025 15:24:37.298 | Model :: DBHandler :: :: Exiting Get Method.
