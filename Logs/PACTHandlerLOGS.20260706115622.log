@@ -1,0 +1,21 @@
+[System: 192.168.1.99] DEBUG | 07/06/2026 11:56:22.993 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'tanvi'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 07/06/2026 11:56:32.338 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'Tanvi'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 07/06/2026 11:57:30.478 | General Service|:: CompanyIndex:0 SpName: spADM_GetClientUserDetails2C 
+ 'admin'
+ ,1
+ ,0
+[System: 192.168.1.99] DEBUG | 07/06/2026 11:57:30.571 | General Service|:: CompanyIndex:0 SpName: spADM_UserLoginCheck 
+ 2
+ ,'admin'
+ ,0
+ ,'192.168.1.99'
+ ,'192.168.1.99'
+ ,''
+ ,'Web'
+ ,1

@@ -1,0 +1,65 @@
+[Sys Thread: 54] INFO | 07/08/2026 11:54:32.688 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 54] INFO | 07/08/2026 11:54:32.688 | Installed Printers Count :3
+[Sys Thread: 54] INFO | 07/08/2026 11:54:32.688 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 54] INFO | 07/08/2026 11:54:32.688 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.120] ERROR | 07/08/2026 11:54:46.289 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.233 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.233 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.233 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.233 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.233 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.265 | Administration:: Entering LDAPChecking
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.265 | isValidUser:: True
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.265 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.312 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.312 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.312 | Administration:: Entering LDAPChecking
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.312 | isValidUser:: True
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:46.312 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.535 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.535 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.535 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.535 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.535 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.613 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.675 | Common:: IsBase64 Checking START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.675 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.675 | Administration:: Entering LDAPChecking
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.675 | isValidUser:: True
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.675 | AdminController:: Exiting LDAPUserCheck
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:51.816 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.847 | Administration:: Entering InitLoginSession
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.847 | Administration:: Entering AllowSession  1
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:51.847 | Administration:: Entering AllowSession  end
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:51.847 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:51.957 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:52.832 | RibbonGenerator:: GetRibbonViewWeb
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:52.832 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:52.832 | RibbonGenerator:: Inside GetRibbonView
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.050 | RibbonGenerator:: Success: GetRibbonView
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.050 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.269 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.285 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.300 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.316 | Administration:: Entering GetUserDetails
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.331 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.347 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.362 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.409 | Administration:: Entering GetUserDetails
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.441 | Administration:: Exiting GetUserDetails
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.441 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.550 | ReportLayout:: GetDataSet START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.581 | ReportLayout:: GetDataSet END
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.581 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.628 | ReportLayout:: GetDataSet START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.628 | ReportLayout:: GetDataSet END
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.628 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.628 | ReportLayout:: GetDataSet START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.675 | ReportLayout:: GetDataSet END
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.675 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.691 | Common:: DecodeBase64 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.691 | Common:: deCodeLevel1 START
+[System: 192.168.1.99] INFO | 07/08/2026 12:00:53.691 | Common:: DecodeBase64 START
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:53.753 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:54.019 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK
+[System: 192.168.1.99] ERROR | 07/08/2026 12:00:54.034 | ExecuteAsync: HttpStatusCode.Unauthorized=>Unauthorizedresponse.StatusCode=>OK

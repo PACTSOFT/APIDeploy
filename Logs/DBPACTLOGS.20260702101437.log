@@ -1,0 +1,5 @@
+[Sys Thread: 1] INFO | 07/02/2026 10:14:37.019 | DBLOGGER Initiated
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.681 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.838 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.853 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.

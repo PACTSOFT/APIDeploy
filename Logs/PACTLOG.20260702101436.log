@@ -1,0 +1,17 @@
+[Sys Thread: 1] INFO | 07/02/2026 10:14:37.034 | SessionManager :: InitOnLoad() :: Entering...
+[Sys Thread: 1] INFO | 07/02/2026 10:14:37.034 | Installed Printers Count :3
+[Sys Thread: 1] INFO | 07/02/2026 10:14:37.034 | IsExportPDFWithPrintOption : True - XPS Printer Name : Microsoft Print to PDF
+[Sys Thread: 1] INFO | 07/02/2026 10:14:37.034 | SessionManager :: InitOnLoad() :: Exiting...
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Common:: deCodeLevel1 START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:37.612 | Administration:: Entering GetClientUserDetails
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.697 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.697 | isValidUser:: True
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.697 | AdminController:: Exiting GetUserDetails
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.822 | Common:: IsBase64 Checking START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.822 | Common:: DecodeBase64 START
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.822 | Administration:: Entering LDAPChecking
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.822 | isValidUser:: True
+[System: 192.168.1.54] INFO | 07/02/2026 10:14:38.822 | AdminController:: Exiting LDAPUserCheck
