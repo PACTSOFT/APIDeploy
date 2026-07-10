@@ -1,9 +1,0 @@
-[Sys Thread: 12] INFO | 07/06/2026 11:56:22.290 | DBLOGGER Initiated
-[System: 192.168.1.99] INFO | 07/06/2026 11:56:22.821 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
-[System: 192.168.1.99] INFO | 07/06/2026 11:56:22.993 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
-[System: 192.168.1.99] INFO | 07/06/2026 11:56:32.323 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
-[System: 192.168.1.99] INFO | 07/06/2026 11:56:32.338 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
-[System: 192.168.1.99] INFO | 07/06/2026 11:57:30.462 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_GetClientUserDetails2C
-[System: 192.168.1.99] INFO | 07/06/2026 11:57:30.478 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
-[System: 192.168.1.99] INFO | 07/06/2026 11:57:30.571 | Model :: DBHandler :: :: Entering Get-ReturnValue Method. CompanyIndex = 0;  SPName = spADM_UserLoginCheck
-[System: 192.168.1.99] INFO | 07/06/2026 11:57:30.571 | Model :: DBHandler :: :: Exiting Get-ReturnValue Method.
